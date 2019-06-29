@@ -1,4 +1,3 @@
-'use strict'; 
 class Options {
 	constructor(height, width, bg, fontSize, textAlign) {
 		this.height = height;
